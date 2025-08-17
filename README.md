@@ -13,6 +13,5 @@ The .pbix file can be opened using Microsoft Power BI Desktop to explore the dat
 
 # 📖 Usage
 
-- **Clone or download this repository:** git clone (https://github.com/SARANYA-NATRAYAN/POWER-BI_CAT-VS-DOG)
 - Open the CAT VS DOG.pbix file in Power BI Desktop.
 - Explore the dashboard by interacting with charts, filters, and visuals.
