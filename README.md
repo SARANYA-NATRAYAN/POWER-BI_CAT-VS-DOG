@@ -6,14 +6,13 @@ The .pbix file can be opened using Microsoft Power BI Desktop to explore the dat
 
 # 🚀 Features
 
-Comparative analysis between cats and dogs
-Interactive dashboards and charts
-Visual insights for trends, counts, and distributions
-User-friendly and easy-to-understand report design
+- Comparative analysis between cats and dogs
+- Interactive dashboards and charts
+- Visual insights for trends, counts, and distributions
+- User-friendly and easy-to-understand report design
 
 # 📖 Usage
 
-Clone or download this repository:
-git clone (https://github.com/SARANYA-NATRAYAN/POWER-BI_CAT-VS-DOG)
-Open the CAT VS DOG.pbix file in Power BI Desktop.
-Explore the dashboard by interacting with charts, filters, and visuals.
+- **Clone or download this repository:** git clone (https://github.com/SARANYA-NATRAYAN/POWER-BI_CAT-VS-DOG)
+- Open the CAT VS DOG.pbix file in Power BI Desktop.
+- Explore the dashboard by interacting with charts, filters, and visuals.
